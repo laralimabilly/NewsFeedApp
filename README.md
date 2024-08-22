@@ -22,7 +22,7 @@ Additional libraries:
 
 ![Captura de tela 2024-08-22 110322](https://github.com/user-attachments/assets/d4040b2e-3eac-4d01-81a0-c88365712c40)
 
-- User can search for a specific subject using the search bar, the results will be shown in the feed
+- Users can search for a specific subject using the search bar, the results will be shown in the feed
 
 ![Captura de tela 2024-08-22 110413](https://github.com/user-attachments/assets/a8194745-07a8-4328-9611-0cdeb4661cd9)
 
