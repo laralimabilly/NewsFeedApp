@@ -10,16 +10,20 @@ Additional libraries:
 
 ## About the News Aggregator
 
-The initial state of this application will display random news based on the return of the APIs
+- The initial state of this application will display random news based on the return of the APIs
+
 ![Captura de tela 2024-08-22 110249](https://github.com/user-attachments/assets/52eee69f-ff2f-424d-977a-1463444cee2e)
 
-The categories shown within the filters are dinamically generated based on the categories of the returned news
+- The categories shown within the filters are dinamically generated based on the categories of the returned news
+
 ![Captura de tela 2024-08-22 110305](https://github.com/user-attachments/assets/6be00440-20e0-400e-bea1-1a8e0b326193)
 
-When you select any of the filters (categories, sources or date range), the application will filter the results
+- When you select any of the filters (categories, sources or date range), the application will filter the results
+
 ![Captura de tela 2024-08-22 110322](https://github.com/user-attachments/assets/d4040b2e-3eac-4d01-81a0-c88365712c40)
 
-Users can also select their favorite categories, which are stored in cookies and used to populate the feed when returning to the application
+- Users can also select their favorite categories, which are stored in cookies and used to populate the feed when returning to the application
+
 ![Captura de tela 2024-08-22 110616](https://github.com/user-attachments/assets/61752c12-5e9f-41de-8659-089486b9c9c5)
 
 ## Run the app on a Docker Container
