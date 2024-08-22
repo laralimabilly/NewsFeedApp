@@ -83,7 +83,7 @@ const NewsFeed: React.FC<{ query: string }> = ({ query }) => {
                   <time dateTime={article.webPublicationDate} className="text-gray-500">
                     {moment(article.webPublicationDate).format('ll')}
                   </time>
-                  <SecTag className="relative z-10">
+                  <SecTag className="relative">
                     {article.sectionName}
                   </SecTag>
                 </div>
